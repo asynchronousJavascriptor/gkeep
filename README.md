@@ -49,5 +49,3 @@ Contributions to improve the GitKeep Generator extension are welcome. Please fee
 This extension is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-This README now includes your name as the creator of the extension, providing a personal touch and highlighting your involvement in the development of this tool.
